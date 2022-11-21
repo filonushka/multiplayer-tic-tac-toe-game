@@ -1,0 +1,17 @@
+Используйте ваш стек.
+
+Не должно быть регистрации и аутентификации (в данном приложении). Вход в приложение только через ввод имени (без пароля, без регистрации и т.п.). 
+
+Задача №7 не содержит "детальных требований": только реализуйте многопользовательскую игру "крестики-нолики" (для 2 игроков - но параллельно может идти множество игр). Сделайте это круто, просто для использования, чтобы было интересно играть. 
+
+Конечно, игрок должен получать ход противника сразу (без перезагрузки страницу).
+
+//
+
+Use your stack.
+
+Create a Web application without registration and authentication. At the start user just enters its name (just name without password or anything).
+
+The task #7 does not have "detailed requirements": just create multiplayer tic-tac-toe game (for 2 players - but many games can take place at same time). Make it cool, make is easy-to-use, fun-to play. 
+
+Of course, player should get an oppenent's move straightaway (without page reload).
